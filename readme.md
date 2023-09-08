@@ -70,7 +70,7 @@ Se creó un repositorio en GitHub que contiene el código fuente, los datos limp
 
 ### Material de Apoyo
 
-- [Fuente de datos Adicionales]([https://www.estadisticaciudad.gob.ar/eyc/?p=29329))
+- [Fuente de datos adicionales](https://www.estadisticaciudad.gob.ar/eyc/?p=29329)
 
 
 ## Autor
