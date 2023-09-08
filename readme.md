@@ -50,6 +50,78 @@ Los siniestros viales son un problema importante en CABA, con un alto número de
 
 14. **Exportación de Datos Limpios**: Se exportaron los datos limpios a un archivo CSV.
 
+# Resumen del Notebook de Análisis de Datos de Homicidios en CABA
+
+## Importación de Bibliotecas
+
+En esta sección, se importan las bibliotecas necesarias para el análisis de datos, como Pandas, Numpy, Seaborn, Matplotlib y Pandas Profiling. También se desactivan las advertencias para mantener un entorno limpio.
+
+## Importación de Datos
+
+Se cargan dos hojas de un archivo Excel llamado 'homicidios.xlsx', que contienen datos sobre homicidios relacionados con siniestros viales en CABA.
+
+## Primera Inspección de los Datos
+
+Se realiza una inspección inicial de los datos de ambas hojas. Esto incluye visualizar las primeras filas, obtener la lista de columnas y verificar la forma del DataFrame.
+
+## Unión de los Datos
+
+Dado que se identifica una coincidencia entre las dos hojas de datos mediante una columna llamada 'ID' y la fecha, se procede a unir los datos en un solo DataFrame para facilitar el análisis posterior.
+
+## Limpieza del Nombre por Join
+
+Se realiza una limpieza en los nombres de las columnas después de la unión de datos.
+
+## Eliminación de Columnas Duplicadas
+
+Se identifican y eliminan las columnas duplicadas en el DataFrame resultante de la unión de datos.
+
+## Inspección Inicial del DataFrame Unificado
+
+Se realiza una inspección inicial del DataFrame combinado para comprender mejor su estructura.
+
+## Tratamiento de Valores Faltantes
+
+Se identifican y tratan los valores faltantes en el DataFrame mediante el cálculo del porcentaje de valores faltantes en cada columna.
+
+## Eliminación de Columnas con Valores Faltantes
+
+Debido a la alta proporción de valores faltantes en las columnas 'Altura' y 'Cruce', se toma la decisión de eliminar estas columnas.
+
+## Eliminación de Filas con Valores Faltantes
+
+Se eliminan las filas que contienen valores faltantes en cualquier columna.
+
+## Tratamiento de Valores 'SD'
+
+Se identifica y analiza el porcentaje de valores 'SD' en las columnas del DataFrame. Se decide eliminar las filas que contienen 'SD' en cualquier columna.
+
+## Tratamiento de Duplicados
+
+Se identifican y eliminan las filas duplicadas en el DataFrame.
+
+## Tratamiento de Tipos de Datos
+
+Se corrigen los tipos de datos de ciertas columnas para que sean coherentes con la naturaleza de los datos.
+
+## Análisis de Outliers
+
+Se utilizan gráficos boxplot para identificar outliers en las variables numéricas. Luego, se eliminan los outliers utilizando el método del Rango Intercuartílico (IQR).
+
+## Adición de la Columna de Población
+
+Se agrega una columna que contiene la población correspondiente a cada año en CABA.
+
+## Exportación de Datos Limpios
+
+El DataFrame limpio se exporta a un archivo CSV llamado 'homicidios_limpio.csv'.
+
+## Análisis Exploratorio y Visualización de Datos
+
+Se realiza un análisis exploratorio de los datos, incluyendo estadísticas descriptivas y visualización de datos para comprender mejor la información contenida en el DataFrame.
+
+
+
 ## Dashboard
 
 Se creó un dashboard interactivo en Power BI que permite explorar detalladamente los datos y visualizar información relevante sobre los siniestros viales en CABA.
