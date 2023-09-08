@@ -62,7 +62,7 @@ Se definieron y calcularon tres KPIs relacionados con la seguridad vial en CABA:
 
 2. **Evolución de Accidentes Mortales de Motociclistas**: Se calculó la evolución de los accidentes mortales con víctimas en moto en CABA en comparación con el año anterior.
 
-3. *KPI adicional*: Se propuso, calculó y graficó un tercer KPI relevante para la temática.
+3. **Evolución de Accidentes Mortales en los cuales el acusado es un Autmóvil**: Se calculó la evolución de los accidentes mortales con acusados en Auto en CABA en comparación con el año anterior.
 
 ## Repositorio de GitHub
 
