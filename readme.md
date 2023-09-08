@@ -70,8 +70,8 @@ Se creó un repositorio en GitHub que contiene el código fuente, los datos limp
 
 ### Material de Apoyo
 
-- [Notas para el uso del dataset de homicidios de siniestros viales de la CABA](https://cdn.buenosaires.gob.ar/seguridad-vial/Informe-introduccion-y-notas.pdf)
-- [Evolución de la mortalidad en siniestros viales en CABA](https://www.buenosaires.gob.ar/seguridadvial/publicaciones/evolucion-de-la-mortalidad-en-siniestros-viales-en-la-ciudad-de-buenos-aires)
+- [Fuente de datos Adicionales]([https://www.estadisticaciudad.gob.ar/eyc/?p=29329))
+
 
 ## Autor
 
