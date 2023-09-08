@@ -1,6 +1,6 @@
 # Proyecto Individual Nº2 - Análisis de Siniestros Viales en CABA
 
-![Logo del Proyecto](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+
 
 ## Descripción del Proyecto
 
