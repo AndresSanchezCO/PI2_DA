@@ -131,7 +131,7 @@ Se realiza un análisis exploratorio de los datos, incluyendo estadísticas desc
 | homicidios_limpio.csv | Data limpia                                         |
 
 
-![Imgur](https://imgur.com/7Uy0Fdn)
+[Imgur](https://i.imgur.com/7Uy0Fdn.png)
 
 
 
