@@ -142,6 +142,19 @@ Para el KPI 2 no se cumpliría ya que el porcentaje de variación aumenta en un 
 
 Y para el KPI 3 donde propongo que los siniestros causados por autos se disminuyan en un 10% tampoco se cumple ya que aumenta en un 45%, que igual  forma se puede medir año a año y esto se puede relacionar a que los años coinciden con la pandemia y el reinicio económico, que tambíen está correlacionado con el KPI anterior y sería un sesgo.
 
+Tambíen gracias al EDA pudimos encontrar varias conclusiones que podrían ser de ayuda al momento de implementar estrategias para el cumplimiento de los kpis las cuales son:
+
+- La mayoría de los accidentes ocurren los días 20 y 17 cada més.
+- La mayor frecuencia de siniestros se encuentra entre las horas 6-7 y 10-14.
+- La mayoría de los siniestros ocurren en tipos de calle avenida.
+- La mayoría de los accidentes ocurren en las comunas 1,4,9.
+- La mayoría de las víctimas son motos.
+- La mayoría de los acusados son autos.
+- La mayoría de sexo es masculino.
+- El rango de edad con mayor cantidad de siniestros se encuentra entre 27-29.
+
+Todas estas conclusiones son con el fin de aportar al proceso de toma de decisiones para trazar un camino al cumplimiento de kpis, como implementación de campañas viales a los grupos objetivos, operativos de tránsito en las áreas afectadas, campañas de concientización, entre otras.
+
 
 
 
