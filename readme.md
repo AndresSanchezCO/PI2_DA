@@ -120,6 +120,17 @@ El DataFrame limpio se exporta a un archivo CSV llamado 'homicidios_limpio.csv'.
 
 Se realiza un análisis exploratorio de los datos, incluyendo estadísticas descriptivas y visualización de datos para comprender mejor la información contenida en el DataFrame.
 
+| Archivo               | Descripción                                         |
+|-----------------------|----------------------------------------------------|
+| homicidios.xlsx       | Dataset inicial                                    |
+| CABA1040.xls          | Origen población CABA                              |
+| readme.md             | Archivo describiendo el proyecto                   |
+| etl-eda.ipynb         | Archivo donde se realiza el proceso de ETL y EDA   |
+| homicidios.html       | Primer reporte hecho con Pandas Profiling a la data sucia |
+| homicidios3.html      | Último reporte que se le hace a la data limpia con Pandas Profiling |
+| homicidios_limpio.csv | Data limpia                                         |
+
+
 
 
 ## Dashboard
