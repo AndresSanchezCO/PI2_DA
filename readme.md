@@ -134,6 +134,14 @@ Se realiza un análisis exploratorio de los datos, incluyendo estadísticas desc
 
 [Ver el archivo HTML](https://github.com/AndresSanchezCO/PI2_DA/blob/main/homicidios3.html)
 
+Gracias al archivo HTML que se encuentra en la parte superior y donde se encuentra analizadas a detalle todas las variables pude seguir el camino para construir el dashboard y los kpis encontrando las siguientes conclusiones.
+
+Para el KPI 1 por lo menos comparando los últimos 2 semestres de la información disponible, que para mi sería la información más relevante encontramos que si se cumple el kpi ya que la tasa se reduce en un 18%; aunque el dashboard es interactivo y se pueden mostrar semestres dinámicos.
+
+Para el KPI 2 no se cumpliría ya que el porcentaje de variación aumenta en un 95% aproximadamente, sin embargo se puede hacer dinámico de año a año, otra vez comparando la información que para mi sería relevante.
+
+Y para el KPI 3 donde propongo que los siniestros causados por autos se disminuyan en un 10% tampoco se cumple ya que aumenta en un 45%, que igual  forma se puede medir año a año y esto se puede relacionar a que los años coinciden con la pandemia y el reinicio económico, que tambíen está correlacionado con el KPI anterior y sería un sesgo.
+
 
 
 
